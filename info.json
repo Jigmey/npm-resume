@@ -1,0 +1,26 @@
+{
+    "name": "Jigmey Dorjee",
+    "website": "https://jigmey.github.io/project1/",
+    "linkedin": "https://www.linkedin.com/in/jigmey-dorjee-90460b10a/",
+    "github": "https://github.com/Jigmey",
+    "email": "jigmeydo@gmail.com",
+    "resume": "https://drive.google.com/file/d/0B_9T3svGjUA3c2ZJUy1LWktldFE/view?usp=sharing",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "C++",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Ruby on Rails",
+        "Java"
+    ],
+    "otherSkills": [
+        "MOBA Games",
+        "Boxing",
+        "Drawing"
+    ]
+}
