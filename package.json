@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://git.generalassemb.ly/dotcrow/npm-resume.git"
+    "url": "https://github.com/Jigmey/npm-resume.git"
   },
   "bin": {
     "your-command-here": "./index.js"
