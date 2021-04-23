@@ -110,3 +110,4 @@ You can use my resume as a guide. Yours can be shorter, or sillier, whatever you
 
 * Checkout [Color.js](https://github.com/Marak/colors.js) to make your resume different colors!
 * Use [JSON.parse](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse) to create your resume as a javascript object you can loop through and customize more!
+# npm-resume
